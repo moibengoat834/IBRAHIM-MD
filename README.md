@@ -5,7 +5,7 @@
                      
                       
    <div align="center">
- 👑<b>KING IBRAHIM MD</b>👑</b>
+ 👑<b>IBRAHIM MD</b>👑</b>
 	   
  HAVING ANY PROBLEM DM ME👉👉https://wa.me/message/74F2PC4JA4F3P1
   
@@ -49,13 +49,13 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 
 
     
-   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
+   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://ibrahim-tech-qr-1-2-1.onrender.com/)                 
                          		 
    
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
     
-***Deploy on [`Heroku`]()*** 
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-MD/tree/main)*** 
 
 
 ### Thanks To
