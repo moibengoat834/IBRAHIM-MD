@@ -16,9 +16,9 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/IBRAHIM-MD/tree/main";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj";
-global.website=process.env.GURL || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ec5a9d307bfe7b037a856.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD";
+global.website=process.env.GURL || "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d3bf95667671f9c70d21f.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
