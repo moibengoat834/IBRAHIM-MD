@@ -18,7 +18,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/ibrahimaitech/IBRAHIM-MD/tree/main";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD";
 global.website=process.env.GURL || "https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d3bf95667671f9c70d21f.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/3949b79e62495b5602d89.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 3,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/d3bf95667671f9c70d21f.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/3949b79e62495b5602d89.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
